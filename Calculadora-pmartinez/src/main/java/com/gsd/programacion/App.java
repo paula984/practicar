@@ -1,5 +1,5 @@
 package com.gsd.programacion;
-//quiero aprobar
+//quiero aprobar ya
 public class App {
 
     public static void main(String[] args) {
